@@ -1,1 +1,44 @@
+Resume
+Charles Takang
+Coder, Hardware Tech, and Instructor
+Website: google.com
+Phone: 111-222-3333
+Twitter: @strongpickin
 
+Hello! I'm Charles Takang and i'm happy to have you as a student in this course. wheather you think you can or you think you cant, you are right.
+
+Services
+Web development
+App development
+Training
+
+Skills
+HTML
+Markup your content with semantic HTML
+CSS
+Layout your content visually for multiple devices
+Javascript
+Make you content more interactive, and build web applications
+
+Work History
+UI/UX Designer
+ABC Corp
+5 Years
+
+Hardware Designer
+ACME 
+3 Years
+
+Construction Worker
+123 Inc
+2 Years
+
+Portfolio
+
+Testimonials
+Cawaps courses gave me a change in my career.
+Cawap courses helped me get a job.
+
+Mailing Address
+999 Front st.
+Anywhere, ON M6L 2C8
