@@ -21,7 +21,7 @@ Javascript
 Make you content more interactive, and build web applications
 
 Work History
-UI/UX Designer
+Backend Developer
 ABC Corp
 5 Years
 
@@ -42,3 +42,4 @@ Cawap courses helped me get a job.
 Mailing Address
 999 Front st.
 Anywhere, ON M6L 2C8
+
